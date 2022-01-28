@@ -1,1 +1,4 @@
 # tinybar
+
+MY_ACCOUNT_ID = 
+MY_PRIVATE_KEY = 
